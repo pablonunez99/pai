@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "main": "index.ts",
   "dependencies": {
-    "@react-native-voice/voice": "^3.2.4",
     "expo": "~56.0.11",
     "expo-linear-gradient": "~56.0.4",
     "expo-speech": "~56.0.3",

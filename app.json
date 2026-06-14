@@ -23,7 +23,6 @@
       "favicon": "./assets/favicon.png"
     },
     "plugins": [
-      "@react-native-voice/voice",
       "llama.rn",
       "expo-speech-recognition"
     ]
